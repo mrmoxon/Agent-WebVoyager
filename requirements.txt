@@ -1,0 +1,6 @@
+langchain==<version>
+nest-asyncio==<version>
+playwright==<version>
+python-dotenv==<version>
+Pillow==<version>
+graphviz==<version>
