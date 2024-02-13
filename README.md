@@ -2,17 +2,17 @@
 
 ### Overview
 
-Agent-WebVoyager is an innovative approach to web navigation and data extraction, capable of performing complex browsing tasks without the need for specific APIs. Mimicking human-like browsing behavior, this agent navigates the web, interacts with pages, and extracts information, all through visual cues and intelligent decision-making processes.
+Agent-WebVoyager is an innovative approach to web navigation and data extraction, capable of performing complex browsing tasks without the need for specific APIs and recording progress along the way. Mimicking human-like browsing behavior, WebVoyager navigates the web, interacts with pages, and extracts information, all through visual cues and intelligent decision-making processes.
 
 ![WebVoyager](path-history/webvoyager.png)
 
-The project showcases the agent's capability to perform a "meta-webscrape" task, such as browsing Twitter to report Elon Musk's most recent tweet, by purely simulating user interactions with the web page. This method stands out by its independence from platform-specific APIs, highlighting a versatile and adaptive web scraping approach.
+The project showcases the agent's capability to perform a "meta-webscrape" task, such as browsing X to report Elon Musk's most recent post purely by simulating a few user interactions with the web page. This method stands out by its independence from platform-specific APIs, highlighting a versatile and adaptive web scraping approach. The sky is the limit.
 
 ### Features
 
 - **Human-like Web Navigation:** Employs visual cues and page elements for navigation, making the process similar to how a human would browse.
 - **No API Required:** Performs tasks without relying on specific web service APIs, enabling broader applicability across various platforms.
-- **Intelligent Decision Making:** Utilizes a set of defined functions to make decisions, interact with web elements, and navigate through pages.
+- **Intelligent Decision Making:** Utilizes a set of defined functions to make decisions, interact with web elements, and navigate through pages. Leverages GPT-4V and LangSmith.
 - **Visual Task Documentation:** Generates a visual path history, documenting each step taken during the task execution.
 
 ### Installation
