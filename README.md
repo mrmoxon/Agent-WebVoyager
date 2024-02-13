@@ -4,6 +4,8 @@
 
 Agent-WebVoyager is an innovative approach to web navigation and data extraction, capable of performing complex browsing tasks without the need for specific APIs. Mimicking human-like browsing behavior, this agent navigates the web, interacts with pages, and extracts information, all through visual cues and intelligent decision-making processes.
 
+![WebVoyager](path-history/webvoyager.png)
+
 The project showcases the agent's capability to perform a "meta-webscrape" task, such as browsing Twitter to report Elon Musk's most recent tweet, by purely simulating user interactions with the web page. This method stands out by its independence from platform-specific APIs, highlighting a versatile and adaptive web scraping approach.
 
 ### Features
